@@ -1,0 +1,2 @@
+/mnt/c/Users/Wits-User/OneDrive/fermi-summer-school/Likelihood_PKS/data/../data/L211025154921445A2D9929_PH00.fits
+/mnt/c/Users/Wits-User/OneDrive/fermi-summer-school/Likelihood_PKS/data/../data/L211025154921445A2D9929_PH01.fits
