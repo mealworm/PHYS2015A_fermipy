@@ -1,0 +1,13 @@
+name: fermipy
+channels:
+  - fermi
+  - conda-forge
+dependencies:
+  - python=3.9
+  - healpy
+  - gammapy
+  - fermitools>=2.2.0
+  - jupyter
+  - pip
+  - pip:
+    - fermipy==1.3.0  
